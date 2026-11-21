@@ -28,9 +28,12 @@ Twelve episodes comparing Japanese judicial practice (civil conciliation, case m
 
 ## Files
 
-- `episodes/` — one Markdown file per episode, with front matter (author, ORCID, affiliation, audio URL, source URL, licence) and a “Cite as” line.
-- `data/episodes.csv`, `data/episodes.jsonl` — one row per episode: titles, author, ORCID, affiliation, audio URL, duration (seconds, measured), file size (bytes), source URL, website URL, licence, citation, full text.
-- `docs/` — the GitHub Pages website: one page per episode with schema.org `PodcastEpisode` JSON-LD and `citation_*` meta tags, plus `feed.xml` (podcast RSS), `llms.txt`, `sitemap.xml`, `robots.txt`, `citation.bib`, `citation.ris`.
+All files are in the repository root; GitHub Pages serves the website from this root.
+
+- `ep-01-…md` to `ep-12-…md` — one Markdown file per episode, with front matter (author, ORCID, affiliation, audio URL, source URL, licence) and a “Cite as” line.
+- `episodes.csv`, `episodes.jsonl` — one row per episode: titles, author, ORCID, affiliation, audio URL, duration (seconds, measured), file size (bytes), source URL, website URL, licence, citation, full text.
+- `index.html`, `ep-01.html` to `ep-12.html` — the website: one page per episode with schema.org `PodcastEpisode` JSON-LD and `citation_*` meta tags.
+- `feed.xml` (podcast RSS), `llms.txt`, `sitemap.xml`, `robots.txt`, `citation.bib`, `citation.ris`, `CITATION.cff`, `LICENSE`.
 
 ## How to cite
 
