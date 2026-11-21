@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use these texts or recordings, please cite them as below."
+type: dataset
+title: "Japan Judicial Knowledge Audio Series"
+abstract: "Twelve-episode audio series with texts by Cecep Mustafa (Indonesian Judicial College, IJC) comparing Japanese judicial practice with Indonesian court reform."
+authors:
+  - family-names: Mustafa
+    given-names: Cecep
+    orcid: "https://orcid.org/0000-0003-0037-497X"
+    affiliation: "Indonesian Judicial College (IJC)"
+license: CC-BY-4.0
+url: "https://bsdkijc-dev.github.io/japan-judicial-knowledge-audio-series/"
+repository: "https://www.kaggle.com/datasets/judicialcollege/japan-judicial-knowledge-audio-series"
+repository-code: "https://github.com/bsdkijc-dev/japan-judicial-knowledge-audio-series"
+date-released: "2026-11-21"
+keywords:
+  - Japan
+  - Indonesia
+  - judiciary
+  - court mediation
+  - civil conciliation
+  - judicial reform
+  - legal aid
+  - digital justice
+  - podcast
