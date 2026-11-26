@@ -1,4 +1,18 @@
+<div align="center">
+
+<img src="assets/logo.png" alt="Japan Judicial Knowledge Audio Series Logo" width="140">
+
 # Japan Judicial Knowledge Audio Series
+
+### Twelve comparative podcast episodes and full transcripts on Japanese judicial practice and Indonesian court reform.
+
+[![License](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey?style=flat)](LICENSE) ![Stack](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) [![Website](https://img.shields.io/badge/GitHub_Pages-Live-2ea44f?style=flat&logo=github)](https://bsdkijc-dev.github.io/japan-judicial-knowledge-audio-series/) [![Kaggle](https://img.shields.io/badge/Kaggle-Dataset-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/judicialcollege/japan-judicial-knowledge-audio-series)
+
+[Documentation](https://bsdkijc-dev.github.io/japan-judicial-knowledge-audio-series/) · [Website](https://bsdkijc-dev.github.io/japan-judicial-knowledge-audio-series/) · [Kaggle](https://www.kaggle.com/datasets/judicialcollege/japan-judicial-knowledge-audio-series) · [Repository](https://github.com/bsdkijc-dev/japan-judicial-knowledge-audio-series)
+
+</div>
+
+---
 
 **Author:** Cecep Mustafa · Indonesian Judicial College (IJC) · ORCID [0000-0003-0037-497X](https://orcid.org/0000-0003-0037-497X)
 
@@ -60,3 +74,13 @@ Text: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — © 2026 Cece
 - Judicial Knowledge Hub: https://bsdkijc-dev.github.io/judicial-knowledge-hub/
 - Research portfolio: https://bsdkijc-dev.github.io/bsdkijc-dev/
 - Kaggle: https://www.kaggle.com/judicialcollege
+
+---
+
+<div align="center">
+
+**Japan Judicial Knowledge Audio Series**
+
+[github.com/bsdkijc-dev/japan-judicial-knowledge-audio-series](https://github.com/bsdkijc-dev/japan-judicial-knowledge-audio-series)
+
+</div>
